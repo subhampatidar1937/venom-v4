@@ -1,6 +1,6 @@
 #zaher DDOS
 
-import subprocess
+import subprocess 
 import json
 import os
 import random
